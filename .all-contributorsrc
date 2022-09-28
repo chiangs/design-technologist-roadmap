@@ -3,7 +3,9 @@
   "projectOwner": "chiangs",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "files": ["README.md"],
+  "files": [
+    "README.md"
+  ],
   "imageSize": 100,
   "commit": true,
   "contributorsPerLine": 7,
@@ -19,5 +21,15 @@
   },
   "linkToUsage": true,
   "skipCi": true,
-  "contributors": []
+  "contributors": [
+    {
+      "login": "chiangs",
+      "name": "Stephen E. Chiang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10984593?v=4",
+      "profile": "http://www.chiangs.dev",
+      "contributions": [
+        "projectManagement"
+      ]
+    }
+  ]
 }
