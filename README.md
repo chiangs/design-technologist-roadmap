@@ -17,3 +17,14 @@ The DT/UXE path is still quite new and ambiguous. If you have suggestions on the
 `main` is the releasse version for the current year and previous years will be branched for archiving purposes.
 
 When working on a change, create your own branch and create a pull request to `main`.
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
