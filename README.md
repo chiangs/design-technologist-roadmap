@@ -36,6 +36,10 @@ To get yourself added to the contributors list, just do any of the following:
 - Contribute to the development of the roadmap in discussions
 - Raise an issue. Thanks!
 
+Approver of the PR / Issues / Discussion will use the `@all-contributors please add @<username> for <contributions>` command.
+
+[See contributions emoji key](https://allcontributors.org/docs/en/emoji-key)
+
 ## 🍻 Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
