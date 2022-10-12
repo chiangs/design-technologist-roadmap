@@ -49,6 +49,7 @@ Approver of the PR / Issues / Discussion will use the `@all-contributors please 
   <tbody>
     <tr>
       <td align="center"><a href="http://www.chiangs.dev"><img src="https://avatars.githubusercontent.com/u/10984593?v=4" width="100px;" alt=""/><br /><sub><b>Stephen E. Chiang</b></sub></a></td>
+        <td align="center"><a href="http://www.izzi.ink"><img src="https://avatars.githubusercontent.com/u/445870?v=4" width="100px;" alt=""/><br /><sub><b>Izzi Koning</b></sub></a></td>
     </tr>
   </tbody>
 </table>
