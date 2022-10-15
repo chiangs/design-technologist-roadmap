@@ -33,6 +33,7 @@ The DT/UXE path is still quite new and ambiguous. If you have suggestions on the
 To get yourself added to the contributors list, just do any of the following:
 
 - Your pull request has to be merged
+- A bot will automatically add you as contributor after a successful merge
 - Contribute to the development of the roadmap in discussions
 - Raise an issue. Thanks!
 
