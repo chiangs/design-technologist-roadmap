@@ -30,6 +30,16 @@
       "contributions": [
         "projectManagement"
       ]
+    },
+    {
+      "login": "Izmargad",
+      "name": "Izzi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/445870?v=4",
+      "profile": "https://github.com/Izmargad",
+      "contributions": [
+        "content"
+      ]
     }
-  ]
+  ],
+  "commitConvention": "angular"
 }
