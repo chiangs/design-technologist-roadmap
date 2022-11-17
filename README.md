@@ -1,5 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
 # 🛣️ Career roadmap for Design Technologists & UX Engineers in 2022
@@ -50,8 +50,18 @@ Approver of the PR / Issues / Discussion will use the `@all-contributors please 
   <tbody>
     <tr>
       <td align="center"><a href="http://www.chiangs.dev"><img src="https://avatars.githubusercontent.com/u/10984593?v=4" width="100px;" alt=""/><br /><sub><b>Stephen E. Chiang</b></sub></a></td>
+      <td align="center"><a href="https://github.com/Izmargad"><img src="https://avatars.githubusercontent.com/u/445870?v=4" width="100px;" alt=""/><br /><sub><b>Izzi</b></sub></a></td>
     </tr>
   </tbody>
+  <tfoot>
+    <tr>
+      <td align="center" size="13px" colspan="7">
+        <img src="https://raw.githubusercontent.com/all-contributors/all-contributors-cli/1b8533af435da9854653492b1327a23a4dbd0a10/assets/logo-small.svg">
+          <a href="https://all-contributors.js.org/docs/en/bot/usage">Add your contributions</a>
+        </img>
+      </td>
+    </tr>
+  </tfoot>
 </table>
 
 <!-- markdownlint-restore -->
